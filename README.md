@@ -1,5 +1,7 @@
 # SimpleAngularApi
 
+Project Link: https://www.freecodecamp.org/news/angular-8-tutorial-in-easy-steps/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
 
 ## Development server
